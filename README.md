@@ -254,17 +254,9 @@ To replicate this project:
 
 ## Acknowledgments
 This project was made possible using **Generative AI** for creating a realistic dataset and **pgAdmin** for database management and query execution.
-```
 
-### How to Use the `README.md`:
-1. Copy this enhanced `README.md` content into your repository.
-2. Commit the new file using the following PowerShell commands:
 
-```bash
-git add README.md
-git commit -m "Updated README.md to include project details, queries, and explanations."
-git push origin main
-```
+
 
 This `README.md` now contains all the details to explain your project clearly, including the data source, transformation steps, table structure, sample queries, and exciting analysis insights.
 
